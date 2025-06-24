@@ -1,6 +1,6 @@
-# The Wisdom Workshop
+# Apogee Services
 
-The Wisdom Workshop is a responsive website designed for a coaching institute, offering an engaging platform for students to explore courses, read blogs, and learn about the experts in the field.
+Apogee Services is a responsive website designed for a coaching institute, offering an engaging platform for students to explore courses, read blogs, and learn about the experts in the field.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ The Wisdom Workshop is a responsive website designed for a coaching institute, o
 
 ## Live Demo
 
-You can view the live application at [The Wisdom Workshop](https://luckygoswami.github.io/The-Wisdom-Workshop/).
+You can view the live application at [Apogee Services](https://luckygoswami.github.io/The-Wisdom-Workshop/).
 
 ## Contributing
 

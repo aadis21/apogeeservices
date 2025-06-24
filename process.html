@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Our Process - apogee Services</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* Main Process Section */
+    #process {
+      padding: 100px 20px 80px;
+      background: linear-gradient(to right, #e9f1f7, #ffffff);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      z-index: 1;
+      position: relative;
+    }
+
+    #process .container {
+      max-width: 1200px;
+      margin: auto;
+      text-align: center;
+    }
+
+    #process h1 {
+      font-size: 45px;
+      font-weight: 700;
+      color: #0d3056;
+      margin-bottom: 20px;
+    }
+
+    #process p.subtitle {
+      font-size: 18px;
+      color: #4b4b4b;
+      margin-bottom: 60px;
+      max-width: 850px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .process-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 40px;
+    }
+
+    .process-step {
+      background: #fff;
+      border-radius: 18px;
+      padding: 35px 30px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+      transition: transform 0.35s ease, box-shadow 0.35s ease;
+      border-top: 5px solid #ffc107;
+      text-align: left;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .process-step:hover {
+      transform: translateY(-12px);
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+      z-index: 0;
+    }
+
+    .process-step::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 5px;
+      background: linear-gradient(to right, #ffcb05, #ffa000);
+      border-radius: 15px 15px 0 0;
+    }
+
+    .process-step h3 {
+      font-size: 21px;
+      font-weight: 700;
+      color: #0d3056;
+      margin-bottom: 12px;
+    }
+
+    .process-step p {
+      font-size: 16px;
+      color: #555;
+      line-height: 1.7;
+    }
+
+    nav {
+      position: relative;
+      z-index: 1000;
+      background: #fff;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <img src="assets/kangra.png" alt="logo" />
+    <div class="navigation">
+      <ul>
+     <li><a class="active" href="index.html">Home</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a  href="process.html">Process</a></li>
+          <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <section id="process">
+    <div class="container">
+      <h1>Our Process</h1>
+      <p class="subtitle">
+        At apogee Services, we believe that excellence is not accidental—it’s the result of a disciplined, structured, and insight-driven process.
+      </p>
+
+      <div class="process-grid">
+        <div class="process-step">
+          <h3>1. Needs Analysis</h3>
+          <p>
+            Every engagement starts with a comprehensive needs analysis. Our consultants collaborate with stakeholders to understand operations, talent gaps, and goals—laying the foundation for customized solutions.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <h3>2. Execution & Delivery</h3>
+          <p>
+            Execution blends technology and human intelligence. From sourcing talent to logistics and onboarding, our workflows are optimized for speed, compliance, and measurable results.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <h3>3. Quality Control</h3>
+          <p>
+            We embed quality control at every step—tracking KPIs, conducting audits, and collecting real-time feedback to ensure top-tier performance.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <h3>4. Post-Implementation Support</h3>
+          <p>
+            Our support extends beyond delivery. We help transition, train, and upscale resources to meet evolving business needs with ease.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <h3>5. Continuous Improvement</h3>
+          <p>
+            Through data, feedback, and collaboration, we refine and improve outcomes to continuously enhance our services and drive business success.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<footer id="footer">
+  <div class="footer-col">
+    <h3>Our Services</h3>
+    <li>Staffing & Outsourcing</li>
+    <li>Leadership Hiring</li>
+    <li>HR Consulting</li>
+    <li>Project Management</li>
+  </div>
+
+  <div class="footer-col">
+    <h3>Quick Links</h3>
+    <li><a href="about.html">About Us</a></li>
+    <li><a href="blog.html">Blog</a></li>
+    <li><a href="contact.html">Contact Us</a></li>
+  </div>
+
+  <div class="footer-col">
+    <h3>Industries We Serve</h3>
+    <li>IT & Technology</li>
+    <li>Healthcare</li>
+    <li>Finance & Banking</li>
+    <li>Manufacturing</li>
+  </div>
+</footer>
+
+</body>
+</html>
