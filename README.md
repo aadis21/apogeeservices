@@ -2,7 +2,7 @@
 
 Apogee Services  is a responsive website designed for a coaching institute, offering an engaging platform for students to explore courses, read blogs, and learn about the experts in the field.
 
-## Table of Contents
+## Table of 
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
