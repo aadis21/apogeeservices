@@ -1,6 +1,6 @@
-# Apogee Services
+# Apogee Services 
 
-Apogee Services is a responsive website designed for a coaching institute, offering an engaging platform for students to explore courses, read blogs, and learn about the experts in the field.
+Apogee Services  is a responsive website designed for a coaching institute, offering an engaging platform for students to explore courses, read blogs, and learn about the experts in the field.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ Apogee Services is a responsive website designed for a coaching institute, offer
 
 ## Live Demo
 
-You can view the live application at [Apogee Services](https://luckygoswami.github.io/The-Wisdom-Workshop/).
+You can view the live application at [Apogee Services ](https://luckygoswami.github.io/The-Wisdom-WorkApogee Services/).
 
 ## Contributing
 
@@ -41,4 +41,4 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue on GitHub or contact me directly via [GitHub Issues](https://github.com/luckygoswami/the-wisdom-workshop/issues).
+If you have any questions or suggestions, feel free to open an issue on GitHub or contact me directly via [GitHub Issues](https://github.com/luckygoswami/the-wisdom-workApogee Services/issues).
