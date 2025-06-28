@@ -492,6 +492,36 @@ nav .navigation ul li a:hover {
   text-align: center;
 }
 
+
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-color: white; /* or your desired background */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* optional shadow for visibility */
+}
+
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+body {
+  padding-top: 80px; /* adjust based on nav height */
+}
+
+
+
+
+
+
+
+
+
 #home h2 {
   color: #ffffff;
   font-size: 2.2rem;
